@@ -9,3 +9,11 @@ Repayment History: Number of missed payments, days past due, and monthly EMI pay
 
 ## Loan Amount Distribution and Relationships with Monthly Income 
 ![Sample Image](image_1.webp)
+The graph demonstrates a positive relationship between loan amounts and monthly income, indicating that individuals with higher income levels tend to secure larger loans. The density curve at the top shows the distribution of loan amounts, emphasizing that higher loan amounts are more frequent among higher income brackets.
+
+It highlights the proportionality between income and loan size, which shows an income-based approach in loan approvals or customer profiling.
+
+# Analyzing Payment History
+![Sample Image](image-2.webp)
+
+
