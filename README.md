@@ -29,6 +29,21 @@ Higher-income individuals are more likely to fully recover their loans, even for
 ![Sample Image](image-5.webp)
 Segment 1 borrowers take on moderate to high loan amounts, indicating financial stability. The Segment 0 clusters around lower income levels and moderate loan sizes, reflecting potential financial strain. Segment 2 borrowers distribute evenly across the graph, representing a balanced but cautious group. Meanwhile, Segment 3 borrowers concentrate in high-loan areas, especially within specific high-income ranges, highlighting their susceptibility to default despite higher incomes.
 
+## Building an Early Detection System for Loan Defaults based on the Risk Scores
+we will use our segments to build a classification model to flag the borrowers with high default risk. Once the model finds the borrowers with a high default risk, we will assign a loan recovery strategy based on the level of the risk of the borrower.We train a Random Forest Classifier.
+
+First we labelled borrowers as high-risk based on their segment classification. Then, we selected key financial and behavioural features to train a Random Forest Classifier. After splitting the data into training and testing sets, we trained the model to predict the probability of a borrower defaulting. We then applied this model to the test data to generate risk scores and classify borrowers as high-risk or low-risk based on a probability threshold. Finally, we merged these predictions with borrower details to enable data-driven recovery strategies.
+
+We defined a function that classifies borrowers into three recovery approaches:
+
+immediate legal action for high-risk borrowers (risk score > 0.75),
+settlement offers and repayment plans for moderate-risk borrowers (0.50 – 0.75),
+and automated reminders for low-risk borrowers (<0.50).
+
+# Conclusion 
+Leveraging borrowers profiles, payment behaviours, and clustering techniques, we can build a smart loan recovery system to identify high-risk borrowers early and assign targeted recovery strategies based on risk levels.  
+
+NB: Colabnote has the full codes
 
 
 
