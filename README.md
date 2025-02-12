@@ -15,5 +15,6 @@ It highlights the proportionality between income and loan size, which shows an i
 
 # Analyzing Payment History
 ![Sample Image](image-2.webp)
+##Loans with on-time payments are mostly fully recovered. Delayed payments result in a mix of partial and full recoveries, with some written off. Missed payments have a significantly lower recovery rate, with most loans ending up either partially recovered or written off.
 
 
