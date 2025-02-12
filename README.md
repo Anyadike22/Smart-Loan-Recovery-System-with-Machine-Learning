@@ -17,4 +17,10 @@ It highlights the proportionality between income and loan size, which shows an i
 ![Sample Image](image-2.webp)
 ##Loans with on-time payments are mostly fully recovered. Delayed payments result in a mix of partial and full recoveries, with some written off. Missed payments have a significantly lower recovery rate, with most loans ending up either partially recovered or written off.
 
+# How Missed Payments Affects Loan Recovery Status  
+![Sample Image](image-3.webp)
+Loans with partial recovery typically have up to 4 missed payments. Fully recovered loans tend to have fewer missed payments, mostly between 0 and 2. Written-off loans show a higher range of missed payments, with several exceeding 6. A higher number of missed payments significantly reduces the likelihood of full recovery and increases the chances of loans being written off.
+
+
+
 
