@@ -8,5 +8,4 @@ Demographic Information: Age, employment type, income level, and number of depen
 Repayment History: Number of missed payments, days past due, and monthly EMI payments.Collection Efforts: Collection methods used, number of recovery attempts, and legal actions taken.Loan Recovery Status: Whether the loan was fully recovered, partially recovered, or remains outstanding.
 
 ## Loan Amount Distribution and Relationships with Monthly Income 
-![Sample Image](images/example.jpg)
-
+![Sample Image](image_1.webp)
