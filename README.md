@@ -43,7 +43,7 @@ and automated reminders for low-risk borrowers (<0.50).
 # Conclusion 
 Leveraging borrowers profiles, payment behaviours, and clustering techniques, we can build a smart loan recovery system to identify high-risk borrowers early and assign targeted recovery strategies based on risk levels.  
 
-NB: Colabnote has the full codes
+NB: Colab Notebook has the full codes
 
 
 
