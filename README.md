@@ -21,6 +21,10 @@ It highlights the proportionality between income and loan size, which shows an i
 ![Sample Image](image-3.webp)
 Loans with partial recovery typically have up to 4 missed payments. Fully recovered loans tend to have fewer missed payments, mostly between 0 and 2. Written-off loans show a higher range of missed payments, with several exceeding 6. A higher number of missed payments significantly reduces the likelihood of full recovery and increases the chances of loans being written off.
 
+# Analyzing Loan Recovery Based on Monthly Income
+![Sample Image](image-4.webp)
+Higher-income individuals are more likely to fully recover their loans, even for larger amounts. Borrowers in lower income brackets face a higher likelihood of loan write-offs or partial recovery. This trend highlights the impact of income on loan recovery, as higher earnings lead to better repayment outcomes and fewer write-offs, even for substantial loans.
+
 
 
 
